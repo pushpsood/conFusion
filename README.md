@@ -1,2 +1,2 @@
 # conFusion
-# do add npm, jquery, node etc before viewing 
+# Add npm, jquery, node etc before viewing 
